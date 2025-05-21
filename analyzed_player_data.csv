@@ -1,0 +1,135 @@
+timestamp,sessionId,userChoice,computerChoice,result,userScore,computerScore,userChoiceLabel,computerChoiceLabel,resultLabel,userChoice_prev_1,computerChoice_prev_1,userChoice_prev_2,computerChoice_prev_2,userChoice_prev_3,computerChoice_prev_3,cluster
+2025-05-19T10:20:43.977Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,3,1,1,0,-1,1.0,2.0,2.0,0.0,0.0,1.0,1
+2025-05-19T10:20:48.842Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,4,1,0,1,1,1.0,0.0,1.0,2.0,2.0,0.0,0
+2025-05-19T10:20:54.205Z,session_1747649995288,scissor,scissor,It is a tie..!,4,1,2,2,0,0.0,1.0,1.0,0.0,1.0,2.0,0
+2025-05-19T10:20:56.085Z,session_1747649995288,paper,paper,It is a tie..!,4,1,0,0,0,2.0,2.0,0.0,1.0,1.0,0.0,1
+2025-05-19T10:20:57.590Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,4,2,2,1,-1,0.0,0.0,2.0,2.0,0.0,1.0,1
+2025-05-19T10:20:58.832Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,5,2,1,2,1,2.0,1.0,0.0,0.0,2.0,2.0,0
+2025-05-19T10:21:04.268Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,5,3,0,2,-1,1.0,2.0,2.0,1.0,0.0,0.0,2
+2025-05-19T10:21:06.676Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,6,3,1,2,1,0.0,2.0,1.0,2.0,2.0,1.0,0
+2025-05-19T10:21:09.081Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,6,4,0,2,-1,1.0,2.0,0.0,2.0,1.0,2.0,2
+2025-05-19T10:21:10.521Z,session_1747649995288,scissor,scissor,It is a tie..!,6,4,2,2,0,0.0,2.0,1.0,2.0,0.0,2.0,0
+2025-05-19T10:21:15.934Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,6,5,0,2,-1,2.0,2.0,0.0,2.0,1.0,2.0,2
+2025-05-19T10:21:17.903Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,7,5,1,2,1,0.0,2.0,2.0,2.0,0.0,2.0,0
+2025-05-19T10:21:19.055Z,session_1747649995288,rock,rock,It is a tie..!,7,5,1,1,0,1.0,2.0,0.0,2.0,2.0,2.0,1
+2025-05-19T10:21:23.098Z,session_1747649995288,scissor,scissor,It is a tie..!,7,5,2,2,0,1.0,1.0,1.0,2.0,0.0,2.0,0
+2025-05-19T10:21:28.521Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,8,5,2,0,1,2.0,2.0,1.0,1.0,1.0,2.0,0
+2025-05-19T10:22:23.685Z,session_1747649995288,rock,rock,It is a tie..!,8,5,1,1,0,2.0,0.0,2.0,2.0,1.0,1.0,1
+2025-05-19T10:22:26.063Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,9,5,0,1,1,1.0,1.0,2.0,0.0,2.0,2.0,0
+2025-05-19T10:22:38.875Z,session_1747649995288,scissor,scissor,It is a tie..!,9,5,2,2,0,0.0,1.0,1.0,1.0,2.0,0.0,0
+2025-05-19T10:22:40.258Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,9,6,0,2,-1,2.0,2.0,0.0,1.0,1.0,1.0,2
+2025-05-19T10:22:41.356Z,session_1747649995288,rock,rock,It is a tie..!,9,6,1,1,0,0.0,2.0,2.0,2.0,0.0,1.0,1
+2025-05-19T10:22:42.286Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,10,6,1,2,1,1.0,1.0,0.0,2.0,2.0,2.0,0
+2025-05-19T10:22:43.449Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,10,7,1,0,-1,1.0,2.0,1.0,1.0,0.0,2.0,1
+2025-05-19T10:22:45.085Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,10,8,0,2,-1,1.0,0.0,1.0,2.0,1.0,1.0,2
+2025-05-19T10:22:46.103Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,10,9,2,1,-1,0.0,2.0,1.0,0.0,1.0,2.0,1
+2025-05-19T10:22:47.063Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,11,9,2,0,1,2.0,1.0,0.0,2.0,1.0,0.0,0
+2025-05-19T10:22:49.294Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,11,10,1,0,-1,2.0,0.0,2.0,1.0,0.0,2.0,1
+2025-05-19T10:22:50.530Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,11,11,0,2,-1,1.0,0.0,2.0,0.0,2.0,1.0,2
+2025-05-19T10:22:51.433Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,11,12,2,1,-1,0.0,2.0,1.0,0.0,2.0,0.0,1
+2025-05-19T10:23:14.393Z,session_1747649995288,paper,paper,It is a tie..!,11,12,0,0,0,2.0,1.0,0.0,2.0,1.0,0.0,1
+2025-05-19T10:23:15.388Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,11,13,0,2,-1,0.0,0.0,2.0,1.0,0.0,2.0,2
+2025-05-19T10:23:16.025Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,11,14,0,2,-1,0.0,2.0,0.0,0.0,2.0,1.0,2
+2025-05-19T10:23:17.422Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,12,14,1,2,1,0.0,2.0,0.0,2.0,0.0,0.0,0
+2025-05-19T10:23:19.136Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,12,15,2,1,-1,1.0,2.0,0.0,2.0,0.0,2.0,1
+2025-05-19T10:23:20.119Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,13,15,1,2,1,2.0,1.0,1.0,2.0,0.0,2.0,0
+2025-05-19T10:23:29.646Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,13,16,1,0,-1,1.0,2.0,2.0,1.0,1.0,2.0,1
+2025-05-19T10:23:30.602Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,13,17,0,2,-1,1.0,0.0,1.0,2.0,2.0,1.0,2
+2025-05-19T10:23:31.514Z,session_1747649995288,scissor,scissor,It is a tie..!,13,17,2,2,0,0.0,2.0,1.0,0.0,1.0,2.0,0
+2025-05-19T10:23:43.014Z,session_1747649995288,paper,paper,It is a tie..!,13,17,0,0,0,2.0,2.0,0.0,2.0,1.0,0.0,1
+2025-05-19T10:23:43.940Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,13,18,1,0,-1,0.0,0.0,2.0,2.0,0.0,2.0,1
+2025-05-19T10:23:45.692Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,13,19,2,1,-1,1.0,0.0,0.0,0.0,2.0,2.0,1
+2025-05-19T10:23:46.636Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,14,19,0,1,1,2.0,1.0,1.0,0.0,0.0,0.0,0
+2025-05-19T10:23:47.303Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,15,19,0,1,1,0.0,1.0,2.0,1.0,1.0,0.0,0
+2025-05-19T10:23:47.895Z,session_1747649995288,paper,paper,It is a tie..!,15,19,0,0,0,0.0,1.0,0.0,1.0,2.0,1.0,1
+2025-05-19T10:23:49.265Z,session_1747649995288,paper,paper,It is a tie..!,15,19,0,0,0,0.0,0.0,0.0,1.0,0.0,1.0,1
+2025-05-19T10:23:49.584Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,16,19,0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,0
+2025-05-19T10:23:49.773Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,16,20,0,2,-1,0.0,1.0,0.0,0.0,0.0,0.0,2
+2025-05-19T10:23:49.933Z,session_1747649995288,paper,paper,It is a tie..!,16,20,0,0,0,0.0,2.0,0.0,1.0,0.0,0.0,1
+2025-05-19T10:23:50.152Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,16,21,0,2,-1,0.0,0.0,0.0,2.0,0.0,1.0,2
+2025-05-19T10:23:50.991Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,16,22,1,0,-1,0.0,2.0,0.0,0.0,0.0,2.0,1
+2025-05-19T10:23:52.359Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,17,22,2,0,1,1.0,0.0,0.0,2.0,0.0,0.0,0
+2025-05-19T10:25:09.331Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,18,22,1,2,1,2.0,0.0,1.0,0.0,0.0,2.0,0
+2025-05-19T10:25:11.633Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,19,22,2,0,1,1.0,2.0,2.0,0.0,1.0,0.0,0
+2025-05-19T10:25:13.273Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,19,23,0,2,-1,2.0,0.0,1.0,2.0,2.0,0.0,2
+2025-05-19T10:25:14.625Z,session_1747649995288,rock,rock,It is a tie..!,19,23,1,1,0,0.0,2.0,2.0,0.0,1.0,2.0,1
+2025-05-19T10:26:26.335Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,19,24,1,0,-1,1.0,1.0,0.0,2.0,2.0,0.0,1
+2025-05-19T10:26:28.649Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,19,25,0,2,-1,1.0,0.0,1.0,1.0,0.0,2.0,2
+2025-05-19T10:26:29.240Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,19,26,0,2,-1,0.0,2.0,1.0,0.0,1.0,1.0,2
+2025-05-19T10:26:29.674Z,session_1747649995288,paper,paper,It is a tie..!,19,26,0,0,0,0.0,2.0,0.0,2.0,1.0,0.0,1
+2025-05-19T10:26:30.368Z,session_1747649995288,paper,paper,It is a tie..!,19,26,0,0,0,0.0,0.0,0.0,2.0,0.0,2.0,1
+2025-05-19T10:26:31.023Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,19,27,0,2,-1,0.0,0.0,0.0,0.0,0.0,2.0,2
+2025-05-19T10:26:31.891Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,19,28,0,2,-1,0.0,2.0,0.0,0.0,0.0,0.0,2
+2025-05-19T10:26:33.087Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,20,28,2,0,1,0.0,2.0,0.0,2.0,0.0,0.0,0
+2025-05-19T10:26:34.859Z,session_1747649995288,paper,paper,It is a tie..!,20,28,0,0,0,2.0,0.0,0.0,2.0,0.0,2.0,1
+2025-05-19T10:26:35.960Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,20,29,2,1,-1,0.0,0.0,2.0,0.0,0.0,2.0,1
+2025-05-19T10:26:37.681Z,session_1747649995288,rock,rock,It is a tie..!,20,29,1,1,0,2.0,1.0,0.0,0.0,2.0,0.0,1
+2025-05-19T10:26:40.176Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,20,30,1,0,-1,1.0,1.0,2.0,1.0,0.0,0.0,1
+2025-05-19T10:26:42.133Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,20,31,1,0,-1,1.0,0.0,1.0,1.0,2.0,1.0,1
+2025-05-19T10:26:44.120Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,20,32,1,0,-1,1.0,0.0,1.0,0.0,1.0,1.0,1
+2025-05-19T10:26:45.007Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,21,32,1,2,1,1.0,0.0,1.0,0.0,1.0,0.0,0
+2025-05-19T10:27:18.469Z,session_1747649995288,paper,paper,It is a tie..!,21,32,0,0,0,1.0,2.0,1.0,0.0,1.0,0.0,1
+2025-05-19T10:27:20.054Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,22,32,1,2,1,0.0,0.0,1.0,2.0,1.0,0.0,0
+2025-05-19T10:27:22.386Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,22,33,2,1,-1,1.0,2.0,0.0,0.0,1.0,2.0,1
+2025-05-19T10:27:24.108Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,22,34,1,0,-1,2.0,1.0,1.0,2.0,0.0,0.0,1
+2025-05-19T10:27:25.328Z,session_1747649995288,paper,paper,It is a tie..!,22,34,0,0,0,1.0,0.0,2.0,1.0,1.0,2.0,1
+2025-05-19T10:27:28.225Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,23,34,2,0,1,0.0,0.0,1.0,0.0,2.0,1.0,0
+2025-05-19T10:27:33.084Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,23,35,1,0,-1,2.0,0.0,0.0,0.0,1.0,0.0,1
+2025-05-19T10:27:47.017Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,23,36,1,0,-1,1.0,0.0,2.0,0.0,0.0,0.0,1
+2025-05-19T10:27:48.011Z,session_1747649995288,scissor,scissor,It is a tie..!,23,36,2,2,0,1.0,0.0,1.0,0.0,2.0,0.0,0
+2025-05-19T10:27:49.358Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,23,37,0,2,-1,2.0,2.0,1.0,0.0,1.0,0.0,2
+2025-05-19T10:27:50.462Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,23,38,1,0,-1,0.0,2.0,2.0,2.0,1.0,0.0,1
+2025-05-19T10:27:51.753Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,23,39,0,2,-1,1.0,0.0,0.0,2.0,2.0,2.0,2
+2025-05-19T10:27:52.422Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,24,39,2,0,1,0.0,2.0,1.0,0.0,0.0,2.0,0
+2025-05-19T10:27:54.035Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,25,39,1,2,1,2.0,0.0,0.0,2.0,1.0,0.0,0
+2025-05-19T10:27:54.921Z,session_1747649995288,rock,rock,It is a tie..!,25,39,1,1,0,1.0,2.0,2.0,0.0,0.0,2.0,1
+2025-05-19T10:28:09.846Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,26,39,1,2,1,1.0,1.0,1.0,2.0,2.0,0.0,0
+2025-05-19T10:28:12.347Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,26,40,0,2,-1,1.0,2.0,1.0,1.0,1.0,2.0,2
+2025-05-19T10:28:14.681Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,27,40,1,2,1,0.0,2.0,1.0,2.0,1.0,1.0,0
+2025-05-19T10:28:16.793Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,28,40,0,1,1,1.0,2.0,0.0,2.0,1.0,2.0,0
+2025-05-19T10:28:19.848Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,28,41,2,1,-1,0.0,1.0,1.0,2.0,0.0,2.0,1
+2025-05-19T10:29:21.118Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,28,42,2,1,-1,2.0,1.0,0.0,1.0,1.0,2.0,1
+2025-05-19T10:29:26.415Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,29,42,1,2,1,2.0,1.0,2.0,1.0,0.0,1.0,0
+2025-05-19T10:29:27.395Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,29,43,0,2,-1,1.0,2.0,2.0,1.0,2.0,1.0,2
+2025-05-19T10:29:28.340Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,29,44,1,0,-1,0.0,2.0,1.0,2.0,2.0,1.0,1
+2025-05-19T10:29:29.397Z,session_1747649995288,scissor,scissor,It is a tie..!,29,44,2,2,0,1.0,0.0,0.0,2.0,1.0,2.0,0
+2025-05-19T10:29:30.251Z,session_1747649995288,paper,paper,It is a tie..!,29,44,0,0,0,2.0,2.0,1.0,0.0,0.0,2.0,1
+2025-05-19T10:29:31.163Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,30,44,1,2,1,0.0,0.0,2.0,2.0,1.0,0.0,0
+2025-05-19T10:29:36.426Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,30,45,1,0,-1,1.0,2.0,0.0,0.0,2.0,2.0,1
+2025-05-19T10:29:37.297Z,session_1747649995288,rock,rock,It is a tie..!,30,45,1,1,0,1.0,0.0,1.0,2.0,0.0,0.0,1
+2025-05-19T10:29:37.980Z,session_1747649995288,rock,rock,It is a tie..!,30,45,1,1,0,1.0,1.0,1.0,0.0,1.0,2.0,1
+2025-05-19T10:29:38.585Z,session_1747649995288,rock,rock,It is a tie..!,30,45,1,1,0,1.0,1.0,1.0,1.0,1.0,0.0,1
+2025-05-19T10:29:39.299Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,31,45,1,2,1,1.0,1.0,1.0,1.0,1.0,1.0,0
+2025-05-19T10:29:46.550Z,session_1747649995288,rock,rock,It is a tie..!,31,45,1,1,0,1.0,2.0,1.0,1.0,1.0,1.0,1
+2025-05-19T10:29:47.998Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,32,45,0,1,1,1.0,1.0,1.0,2.0,1.0,1.0,0
+2025-05-19T10:29:51.060Z,session_1747649995288,scissor,scissor,It is a tie..!,32,45,2,2,0,0.0,1.0,1.0,1.0,1.0,2.0,0
+2025-05-19T10:29:52.112Z,session_1747649995288,rock,rock,It is a tie..!,32,45,1,1,0,2.0,2.0,0.0,1.0,1.0,1.0,1
+2025-05-19T10:29:53.057Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,33,45,0,1,1,1.0,1.0,2.0,2.0,0.0,1.0,0
+2025-05-19T10:29:54.114Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,33,46,2,1,-1,0.0,1.0,1.0,1.0,2.0,2.0,1
+2025-05-19T10:29:55.416Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,33,47,1,0,-1,2.0,1.0,0.0,1.0,1.0,1.0,1
+2025-05-19T10:29:56.516Z,session_1747649995288,paper,paper,It is a tie..!,33,47,0,0,0,1.0,0.0,2.0,1.0,0.0,1.0,1
+2025-05-19T10:29:57.509Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,33,48,2,1,-1,0.0,0.0,1.0,0.0,2.0,1.0,1
+2025-05-19T10:29:58.583Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,33,49,2,1,-1,2.0,1.0,0.0,0.0,1.0,0.0,1
+2025-05-19T10:29:59.561Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,33,50,2,1,-1,2.0,1.0,2.0,1.0,0.0,0.0,1
+2025-05-19T10:30:02.819Z,session_1747649995288,rock,rock,It is a tie..!,33,50,1,1,0,2.0,1.0,2.0,1.0,2.0,1.0,1
+2025-05-19T10:30:06.029Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,33,51,0,2,-1,1.0,1.0,2.0,1.0,2.0,1.0,2
+2025-05-19T10:30:08.095Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,33,52,2,1,-1,0.0,2.0,1.0,1.0,2.0,1.0,1
+2025-05-19T10:30:09.306Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,34,52,1,2,1,2.0,1.0,0.0,2.0,1.0,1.0,0
+2025-05-19T10:30:10.827Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,35,52,0,1,1,1.0,2.0,2.0,1.0,0.0,2.0,0
+2025-05-19T10:30:11.866Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,35,53,2,1,-1,0.0,1.0,1.0,2.0,2.0,1.0,1
+2025-05-19T10:30:13.216Z,session_1747649995288,rock,rock,It is a tie..!,35,53,1,1,0,2.0,1.0,0.0,1.0,1.0,2.0,1
+2025-05-19T10:30:14.395Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,36,53,0,1,1,1.0,1.0,2.0,1.0,0.0,1.0,0
+2025-05-19T10:30:21.726Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,37,53,0,1,1,0.0,1.0,1.0,1.0,2.0,1.0,0
+2025-05-19T10:30:25.626Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,38,53,1,2,1,0.0,1.0,0.0,1.0,1.0,1.0,0
+2025-05-19T10:30:30.539Z,session_1747649995288,rock,scissor,Hurrah! You win..! rock beats scissor,39,53,1,2,1,1.0,2.0,0.0,1.0,0.0,1.0,0
+2025-05-19T10:32:35.506Z,session_1747649995288,scissor,paper,Hurrah! You win..! scissor beats paper,40,53,2,0,1,1.0,2.0,1.0,2.0,0.0,1.0,0
+2025-05-19T10:32:39.639Z,session_1747649995288,rock,rock,It is a tie..!,40,53,1,1,0,2.0,0.0,1.0,2.0,1.0,2.0,1
+2025-05-19T10:32:41.036Z,session_1747649995288,paper,rock,Hurrah! You win..! paper beats rock,41,53,0,1,1,1.0,1.0,2.0,0.0,1.0,2.0,0
+2025-05-19T10:32:42.378Z,session_1747649995288,paper,paper,It is a tie..!,41,53,0,0,0,0.0,1.0,1.0,1.0,2.0,0.0,1
+2025-05-19T10:32:43.436Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,41,54,1,0,-1,0.0,0.0,0.0,1.0,1.0,1.0,1
+2025-05-19T10:32:44.881Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,41,55,2,1,-1,1.0,0.0,0.0,0.0,0.0,1.0,1
+2025-05-19T10:32:48.457Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,41,56,1,0,-1,2.0,1.0,1.0,0.0,0.0,0.0,1
+2025-05-19T10:32:49.327Z,session_1747649995288,rock,paper,Oops! You lose...! paper beats rock,41,57,1,0,-1,1.0,0.0,2.0,1.0,1.0,0.0,1
+2025-05-19T10:32:51.433Z,session_1747649995288,paper,scissor,Oops! You lose...! scissor beats paper,41,58,0,2,-1,1.0,0.0,1.0,0.0,2.0,1.0,2
+2025-05-19T10:32:53.221Z,session_1747649995288,scissor,scissor,It is a tie..!,41,58,2,2,0,0.0,2.0,1.0,0.0,1.0,0.0,0
+2025-05-19T10:32:56.739Z,session_1747649995288,scissor,rock,Oops! You lose...! rock beats scissor,41,59,2,1,-1,2.0,2.0,0.0,2.0,1.0,0.0,1
