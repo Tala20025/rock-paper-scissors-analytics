@@ -1,0 +1,1235 @@
+[
+  {
+    "timestamp": "2025-05-19T10:20:15.463Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 1,
+    "computerScore": 0
+  },
+  {
+    "timestamp": "2025-05-19T10:20:30.748Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 2,
+    "computerScore": 0
+  },
+  {
+    "timestamp": "2025-05-19T10:20:38.303Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 3,
+    "computerScore": 0
+  },
+  {
+    "timestamp": "2025-05-19T10:20:43.977Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 3,
+    "computerScore": 1
+  },
+  {
+    "timestamp": "2025-05-19T10:20:48.842Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 4,
+    "computerScore": 1
+  },
+  {
+    "timestamp": "2025-05-19T10:20:54.205Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 4,
+    "computerScore": 1
+  },
+  {
+    "timestamp": "2025-05-19T10:20:56.085Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 4,
+    "computerScore": 1
+  },
+  {
+    "timestamp": "2025-05-19T10:20:57.590Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 4,
+    "computerScore": 2
+  },
+  {
+    "timestamp": "2025-05-19T10:20:58.832Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 5,
+    "computerScore": 2
+  },
+  {
+    "timestamp": "2025-05-19T10:21:04.268Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 5,
+    "computerScore": 3
+  },
+  {
+    "timestamp": "2025-05-19T10:21:06.676Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 6,
+    "computerScore": 3
+  },
+  {
+    "timestamp": "2025-05-19T10:21:09.081Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 6,
+    "computerScore": 4
+  },
+  {
+    "timestamp": "2025-05-19T10:21:10.521Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 6,
+    "computerScore": 4
+  },
+  {
+    "timestamp": "2025-05-19T10:21:15.934Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 6,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:21:17.903Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 7,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:21:19.055Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 7,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:21:23.098Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 7,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:21:28.521Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 8,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:22:23.685Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 8,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:22:26.063Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 9,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:22:38.875Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 9,
+    "computerScore": 5
+  },
+  {
+    "timestamp": "2025-05-19T10:22:40.258Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 9,
+    "computerScore": 6
+  },
+  {
+    "timestamp": "2025-05-19T10:22:41.356Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 9,
+    "computerScore": 6
+  },
+  {
+    "timestamp": "2025-05-19T10:22:42.286Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 10,
+    "computerScore": 6
+  },
+  {
+    "timestamp": "2025-05-19T10:22:43.449Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 10,
+    "computerScore": 7
+  },
+  {
+    "timestamp": "2025-05-19T10:22:45.085Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 10,
+    "computerScore": 8
+  },
+  {
+    "timestamp": "2025-05-19T10:22:46.103Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 10,
+    "computerScore": 9
+  },
+  {
+    "timestamp": "2025-05-19T10:22:47.063Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 11,
+    "computerScore": 9
+  },
+  {
+    "timestamp": "2025-05-19T10:22:49.294Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 11,
+    "computerScore": 10
+  },
+  {
+    "timestamp": "2025-05-19T10:22:50.530Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 11,
+    "computerScore": 11
+  },
+  {
+    "timestamp": "2025-05-19T10:22:51.433Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 11,
+    "computerScore": 12
+  },
+  {
+    "timestamp": "2025-05-19T10:23:14.393Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 11,
+    "computerScore": 12
+  },
+  {
+    "timestamp": "2025-05-19T10:23:15.388Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 11,
+    "computerScore": 13
+  },
+  {
+    "timestamp": "2025-05-19T10:23:16.025Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 11,
+    "computerScore": 14
+  },
+  {
+    "timestamp": "2025-05-19T10:23:17.422Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 12,
+    "computerScore": 14
+  },
+  {
+    "timestamp": "2025-05-19T10:23:19.136Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 12,
+    "computerScore": 15
+  },
+  {
+    "timestamp": "2025-05-19T10:23:20.119Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 13,
+    "computerScore": 15
+  },
+  {
+    "timestamp": "2025-05-19T10:23:29.646Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 13,
+    "computerScore": 16
+  },
+  {
+    "timestamp": "2025-05-19T10:23:30.602Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 13,
+    "computerScore": 17
+  },
+  {
+    "timestamp": "2025-05-19T10:23:31.514Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 13,
+    "computerScore": 17
+  },
+  {
+    "timestamp": "2025-05-19T10:23:43.014Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 13,
+    "computerScore": 17
+  },
+  {
+    "timestamp": "2025-05-19T10:23:43.940Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 13,
+    "computerScore": 18
+  },
+  {
+    "timestamp": "2025-05-19T10:23:45.692Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 13,
+    "computerScore": 19
+  },
+  {
+    "timestamp": "2025-05-19T10:23:46.636Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 14,
+    "computerScore": 19
+  },
+  {
+    "timestamp": "2025-05-19T10:23:47.303Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 15,
+    "computerScore": 19
+  },
+  {
+    "timestamp": "2025-05-19T10:23:47.895Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 15,
+    "computerScore": 19
+  },
+  {
+    "timestamp": "2025-05-19T10:23:49.265Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 15,
+    "computerScore": 19
+  },
+  {
+    "timestamp": "2025-05-19T10:23:49.584Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 16,
+    "computerScore": 19
+  },
+  {
+    "timestamp": "2025-05-19T10:23:49.773Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 16,
+    "computerScore": 20
+  },
+  {
+    "timestamp": "2025-05-19T10:23:49.933Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 16,
+    "computerScore": 20
+  },
+  {
+    "timestamp": "2025-05-19T10:23:50.152Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 16,
+    "computerScore": 21
+  },
+  {
+    "timestamp": "2025-05-19T10:23:50.991Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 16,
+    "computerScore": 22
+  },
+  {
+    "timestamp": "2025-05-19T10:23:52.359Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 17,
+    "computerScore": 22
+  },
+  {
+    "timestamp": "2025-05-19T10:25:09.331Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 18,
+    "computerScore": 22
+  },
+  {
+    "timestamp": "2025-05-19T10:25:11.633Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 19,
+    "computerScore": 22
+  },
+  {
+    "timestamp": "2025-05-19T10:25:13.273Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 19,
+    "computerScore": 23
+  },
+  {
+    "timestamp": "2025-05-19T10:25:14.625Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 19,
+    "computerScore": 23
+  },
+  {
+    "timestamp": "2025-05-19T10:26:26.335Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 19,
+    "computerScore": 24
+  },
+  {
+    "timestamp": "2025-05-19T10:26:28.649Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 19,
+    "computerScore": 25
+  },
+  {
+    "timestamp": "2025-05-19T10:26:29.240Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 19,
+    "computerScore": 26
+  },
+  {
+    "timestamp": "2025-05-19T10:26:29.674Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 19,
+    "computerScore": 26
+  },
+  {
+    "timestamp": "2025-05-19T10:26:30.368Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 19,
+    "computerScore": 26
+  },
+  {
+    "timestamp": "2025-05-19T10:26:31.023Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 19,
+    "computerScore": 27
+  },
+  {
+    "timestamp": "2025-05-19T10:26:31.891Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 19,
+    "computerScore": 28
+  },
+  {
+    "timestamp": "2025-05-19T10:26:33.087Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 20,
+    "computerScore": 28
+  },
+  {
+    "timestamp": "2025-05-19T10:26:34.859Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 20,
+    "computerScore": 28
+  },
+  {
+    "timestamp": "2025-05-19T10:26:35.960Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 20,
+    "computerScore": 29
+  },
+  {
+    "timestamp": "2025-05-19T10:26:37.681Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 20,
+    "computerScore": 29
+  },
+  {
+    "timestamp": "2025-05-19T10:26:40.176Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 20,
+    "computerScore": 30
+  },
+  {
+    "timestamp": "2025-05-19T10:26:42.133Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 20,
+    "computerScore": 31
+  },
+  {
+    "timestamp": "2025-05-19T10:26:44.120Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 20,
+    "computerScore": 32
+  },
+  {
+    "timestamp": "2025-05-19T10:26:45.007Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 21,
+    "computerScore": 32
+  },
+  {
+    "timestamp": "2025-05-19T10:27:18.469Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 21,
+    "computerScore": 32
+  },
+  {
+    "timestamp": "2025-05-19T10:27:20.054Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 22,
+    "computerScore": 32
+  },
+  {
+    "timestamp": "2025-05-19T10:27:22.386Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 22,
+    "computerScore": 33
+  },
+  {
+    "timestamp": "2025-05-19T10:27:24.108Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 22,
+    "computerScore": 34
+  },
+  {
+    "timestamp": "2025-05-19T10:27:25.328Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 22,
+    "computerScore": 34
+  },
+  {
+    "timestamp": "2025-05-19T10:27:28.225Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 23,
+    "computerScore": 34
+  },
+  {
+    "timestamp": "2025-05-19T10:27:33.084Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 23,
+    "computerScore": 35
+  },
+  {
+    "timestamp": "2025-05-19T10:27:47.017Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 23,
+    "computerScore": 36
+  },
+  {
+    "timestamp": "2025-05-19T10:27:48.011Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 23,
+    "computerScore": 36
+  },
+  {
+    "timestamp": "2025-05-19T10:27:49.358Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 23,
+    "computerScore": 37
+  },
+  {
+    "timestamp": "2025-05-19T10:27:50.462Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 23,
+    "computerScore": 38
+  },
+  {
+    "timestamp": "2025-05-19T10:27:51.753Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 23,
+    "computerScore": 39
+  },
+  {
+    "timestamp": "2025-05-19T10:27:52.422Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 24,
+    "computerScore": 39
+  },
+  {
+    "timestamp": "2025-05-19T10:27:54.035Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 25,
+    "computerScore": 39
+  },
+  {
+    "timestamp": "2025-05-19T10:27:54.921Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 25,
+    "computerScore": 39
+  },
+  {
+    "timestamp": "2025-05-19T10:28:09.846Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 26,
+    "computerScore": 39
+  },
+  {
+    "timestamp": "2025-05-19T10:28:12.347Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 26,
+    "computerScore": 40
+  },
+  {
+    "timestamp": "2025-05-19T10:28:14.681Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 27,
+    "computerScore": 40
+  },
+  {
+    "timestamp": "2025-05-19T10:28:16.793Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 28,
+    "computerScore": 40
+  },
+  {
+    "timestamp": "2025-05-19T10:28:19.848Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 28,
+    "computerScore": 41
+  },
+  {
+    "timestamp": "2025-05-19T10:29:21.118Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 28,
+    "computerScore": 42
+  },
+  {
+    "timestamp": "2025-05-19T10:29:26.415Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 29,
+    "computerScore": 42
+  },
+  {
+    "timestamp": "2025-05-19T10:29:27.395Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 29,
+    "computerScore": 43
+  },
+  {
+    "timestamp": "2025-05-19T10:29:28.340Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 29,
+    "computerScore": 44
+  },
+  {
+    "timestamp": "2025-05-19T10:29:29.397Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 29,
+    "computerScore": 44
+  },
+  {
+    "timestamp": "2025-05-19T10:29:30.251Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 29,
+    "computerScore": 44
+  },
+  {
+    "timestamp": "2025-05-19T10:29:31.163Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 30,
+    "computerScore": 44
+  },
+  {
+    "timestamp": "2025-05-19T10:29:36.426Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 30,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:37.297Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 30,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:37.980Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 30,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:38.585Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 30,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:39.299Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 31,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:46.550Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 31,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:47.998Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 32,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:51.060Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 32,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:52.112Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 32,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:53.057Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 33,
+    "computerScore": 45
+  },
+  {
+    "timestamp": "2025-05-19T10:29:54.114Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 33,
+    "computerScore": 46
+  },
+  {
+    "timestamp": "2025-05-19T10:29:55.416Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 33,
+    "computerScore": 47
+  },
+  {
+    "timestamp": "2025-05-19T10:29:56.516Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 33,
+    "computerScore": 47
+  },
+  {
+    "timestamp": "2025-05-19T10:29:57.509Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 33,
+    "computerScore": 48
+  },
+  {
+    "timestamp": "2025-05-19T10:29:58.583Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 33,
+    "computerScore": 49
+  },
+  {
+    "timestamp": "2025-05-19T10:29:59.561Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 33,
+    "computerScore": 50
+  },
+  {
+    "timestamp": "2025-05-19T10:30:02.819Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 33,
+    "computerScore": 50
+  },
+  {
+    "timestamp": "2025-05-19T10:30:06.029Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 33,
+    "computerScore": 51
+  },
+  {
+    "timestamp": "2025-05-19T10:30:08.095Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 33,
+    "computerScore": 52
+  },
+  {
+    "timestamp": "2025-05-19T10:30:09.306Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 34,
+    "computerScore": 52
+  },
+  {
+    "timestamp": "2025-05-19T10:30:10.827Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 35,
+    "computerScore": 52
+  },
+  {
+    "timestamp": "2025-05-19T10:30:11.866Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 35,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:30:13.216Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 35,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:30:14.395Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 36,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:30:21.726Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 37,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:30:25.626Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 38,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:30:30.539Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "scissor",
+    "result": "Hurrah! You win..! rock beats scissor",
+    "userScore": 39,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:32:35.506Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "paper",
+    "result": "Hurrah! You win..! scissor beats paper",
+    "userScore": 40,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:32:39.639Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "rock",
+    "result": "It is a tie..!",
+    "userScore": 40,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:32:41.036Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "rock",
+    "result": "Hurrah! You win..! paper beats rock",
+    "userScore": 41,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:32:42.378Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "paper",
+    "result": "It is a tie..!",
+    "userScore": 41,
+    "computerScore": 53
+  },
+  {
+    "timestamp": "2025-05-19T10:32:43.436Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 41,
+    "computerScore": 54
+  },
+  {
+    "timestamp": "2025-05-19T10:32:44.881Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 41,
+    "computerScore": 55
+  },
+  {
+    "timestamp": "2025-05-19T10:32:48.457Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 41,
+    "computerScore": 56
+  },
+  {
+    "timestamp": "2025-05-19T10:32:49.327Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "rock",
+    "computerChoice": "paper",
+    "result": "Oops! You lose...! paper beats rock",
+    "userScore": 41,
+    "computerScore": 57
+  },
+  {
+    "timestamp": "2025-05-19T10:32:51.433Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "paper",
+    "computerChoice": "scissor",
+    "result": "Oops! You lose...! scissor beats paper",
+    "userScore": 41,
+    "computerScore": 58
+  },
+  {
+    "timestamp": "2025-05-19T10:32:53.221Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "scissor",
+    "result": "It is a tie..!",
+    "userScore": 41,
+    "computerScore": 58
+  },
+  {
+    "timestamp": "2025-05-19T10:32:56.739Z",
+    "sessionId": "session_1747649995288",
+    "userChoice": "scissor",
+    "computerChoice": "rock",
+    "result": "Oops! You lose...! rock beats scissor",
+    "userScore": 41,
+    "computerScore": 59
+  }
+]
